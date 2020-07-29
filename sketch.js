@@ -36,6 +36,7 @@ function draw() {
   checkWin();
   displayScores();
   // add comment
+  // other comment
 }
 
 function keyPressed() {
