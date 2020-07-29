@@ -35,6 +35,7 @@ function draw() {
   checkCollisions();
   checkWin();
   displayScores();
+  // add comment
 }
 
 function keyPressed() {
